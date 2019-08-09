@@ -1,7 +1,7 @@
 
-package olamundo;
+package Atividade01;
 
-    import olamundo.Funcionario;
+    import Atividade01.Funcionario;
 
 public class TestaFuncionario {
     public static void main(String[] args) {

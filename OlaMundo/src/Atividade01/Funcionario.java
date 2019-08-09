@@ -1,5 +1,5 @@
 
-package olamundo;
+package Atividade01;
 
 
 public class Funcionario {
