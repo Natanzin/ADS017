@@ -18,6 +18,5 @@ public class JanelaPrincipal extends JFrame {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
         janelaSobre.exibir();
-
     }
 }
