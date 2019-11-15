@@ -33,7 +33,7 @@ public class TestaAlunoDAO {
             System.err.println(ex.getMessage() + ex.getCause().getMessage());
         }
         
-        aluno.setNome("RICARDÃO");
+        aluno.setNome("JOrge");
         try {
             dao.alterar(aluno);
         } catch (DadosException ex) {
